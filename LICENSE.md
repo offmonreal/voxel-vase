@@ -6,6 +6,12 @@ Copyright © 2026 Maxim Bezverhnii.
 
 This license covers the four Voxel Vase renderings published in this repository and the depicted Voxel Vase design (VXL-VASE-001, v01), to the extent Maxim Bezverhnii holds applicable copyright or design rights. Any third-party rights remain with their respective holders.
 
+## Unregistered EU design
+
+Maxim Bezverhnii claims protection for the Voxel Vase design as an unregistered EU design under Regulation (EU) 2026/715. Where the statutory conditions are met, Articles 12 and 20 provide protection against copying for three years from the first qualifying public disclosure in the European Union.
+
+First known public disclosure: 3 November 2026, as recorded in the MakerWorld publication notice.
+
 ## Personal use
 
 Maxim Bezverhnii grants individuals a worldwide, royalty-free, nonexclusive and nontransferable permission to view and keep private copies of the renderings and, using lawfully obtained materials, to make and use physical copies of the vase for their own private, noncommercial purposes. Keep the copyright notice and this license with any private digital copies.
